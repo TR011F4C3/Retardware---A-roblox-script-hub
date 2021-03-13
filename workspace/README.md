@@ -9,6 +9,7 @@ Reminder that if you wanted to rename a file you would probably have to find all
 Conditions:
 
 * Don't use this GUI without crediting me, "Vaporsploiter". It must be text size 14. I recommend at the bottom of the frame. The image below shows where the placement should be.
+
 ![image](https://user-images.githubusercontent.com/77796853/111028865-616fb580-83f1-11eb-8e9d-a5ee8f72b9d7.png)
 
 
