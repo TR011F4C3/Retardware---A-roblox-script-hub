@@ -10,7 +10,7 @@ Conditions:
 
 * Don't use this GUI to make a fake Vaporware Script Hub. Change the name. Although not required, a color change would be nice.
 
-* Don't use this GUI without crediting me, "Vaporsploiter". It must be text size 14. I recommend at the bottom of the frame. The image below shows where the placement should be.
+* Don't use this GUI without crediting me, "Vaporsploiter". It must be text size 14 and a TextLabel. I recommend at the bottom of the frame. The image below shows where the placement should be.
 
 ![image](https://user-images.githubusercontent.com/77796853/111028865-616fb580-83f1-11eb-8e9d-a5ee8f72b9d7.png)
 
